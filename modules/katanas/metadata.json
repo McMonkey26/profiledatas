@@ -1,0 +1,9 @@
+{
+  "name":"Katanas",
+  "description":"Katana Ability Timer And Numerous Other Shit",
+  "creator":"McMonkey26",
+  "version":"0.0.1",
+  "entry":"index.js",
+  "requires":["CustomTabCompletions","CorePewPer"],
+  "helpMessage":"idk man, just look at the source code"
+}

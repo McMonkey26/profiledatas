@@ -1,0 +1,7 @@
+{
+  "name": "CustomTabCompletions",
+  "creator": "SirHyperNova",
+  "isRequired": true,
+  "version": "1.0.2",
+  "description": "A module that allows you to add a custom tab completion function to commands."
+}

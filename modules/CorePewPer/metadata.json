@@ -1,0 +1,7 @@
+{
+  "name": "CorePewPer",
+  "description": "Core utilities for ComPewPer's modules. Free for use.",
+  "author": "ComPewPer",
+  "version": "1.7.0",
+  "requires":["PogData"]
+}

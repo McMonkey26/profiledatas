@@ -1,0 +1,9 @@
+{
+	"name":"ExpertiseProgressTracker",
+	"author": "muchnameless",
+	"description": "displays the expertise kills and kills needed for the next upgrade of the fishing rod that is closest to hotbar slot 1\n\n/expertise - open settings",
+	"helpMessage": "/expertise to open settings",
+	"version": "1.0.0",
+	"requires": [ "SettingsManager" ],
+	"entry": "index.js"
+}
